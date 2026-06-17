@@ -1,0 +1,11 @@
+{
+  "version": "v5.202",
+  "base": "v5.201",
+  "fix": [
+    "Detail page probe line remains centered",
+    "Patched legacy app.js superposition rendering to center probe line",
+    "Patched old trackedIdx from 36% to 50%",
+    "Index superposition button now opens visualizer_superposition.html directly",
+    "Updated service worker cache"
+  ]
+}
